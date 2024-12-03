@@ -1,0 +1,7 @@
+*{box-sizing: border-box;}
+
+.error-msg {
+    display: none;
+    color: #f00;
+    margin: 0 0 10px 10px;;
+}
